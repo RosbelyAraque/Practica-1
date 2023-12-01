@@ -59,7 +59,7 @@ print ("bool7==bool1:", bool7 == bool1)
 print ("boll8== bool1:", bool8==bool1)
 print ("bool9 == bool1:", bool9 == bool)
 
-print("......")
+print(".....................................................")
 bool12 = True
 
 Numero_entero1= int(bool1)
@@ -67,36 +67,36 @@ print("numero_entero1:",Numero_entero1)
 Numero_entero2= int (bool12)
 print ("numero_entero2:",Numero_entero2)
 
-print("...........")
+print(".....................................................")
 
 tipo_bool12= type(bool12)
 print("tipo_bool12:",tipo_bool12)
 
-print (".........")
+print ("....................................................")
 
 tipo_str=str(bool12)
 print("tipo_str:",tipo_str)
 
-print("..................")
+print(".....................................................")
 
 tipo_str_1 = type(str(True))
 print("tipo_str_1:",tipo_str_1)
 
-print("............")
+print(".....................................................")
 tipo_bool1=type (bool)
 print("tipo_bool1:",tipo_bool1)
-print("........")
+print(".....................................................")
 
 tipo_str2=str(bool1)
 print ("tipo_str2:",tipo_str2)
 
-print ("................")
+print ("....................................................")
 
 tipo_str3= type(str(bool1))
 print ("tipo_str3:",tipo_str3)
 
 
-print (".......................Datos tipo arrelo........................")
+print (".......................Datos tipo arreglo........................")
 #A continuación se declara la variable factura tipo lis y se le asigna una lista con cuatro elementos distintos
 #Lista
 factura = ['pan', 'huevos', 100,1234]
@@ -140,6 +140,7 @@ print("versiones_plone.index(4):",versiones_plone.index(4))
 
 print("...................................................................")
 versiones_plone= [2.1,2.5,3.6,4,5,6]
+print("versiones_plone:",versiones_plone)
 versiones_plone.insert(2,3.7)
 print("versiones_plone:",versiones_plone)
 
