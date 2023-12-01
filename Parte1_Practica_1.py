@@ -3,7 +3,7 @@ print(".....................Datos tipos numericos..................")
 print(".............................int............................")
 
 #Numeros enteros int
-#Se declara la variable entero_1 de tipo int y se le asigna erl valor 20 
+#Se declara la variable entero_1 de tipo int y se le asigna el valor 20 
 entero_1 = 20
 tipo_numero_1 = type(entero_1)
 print("tipo_numero_1:",tipo_numero_1)
